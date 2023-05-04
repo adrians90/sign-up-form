@@ -6,6 +6,7 @@ body {
     display: flex;
     flex-direction: row;
     background-color: lightgray;
+    resize: both;
 }
 .img {
     display: flex;
@@ -117,4 +118,5 @@ form {
     font-size: 25px;
     font-weight: 900;
     color: red;
+    visibility: initial;
 }
